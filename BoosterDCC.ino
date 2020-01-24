@@ -24,7 +24,7 @@
 #define pinSensorCorrente A1
 
 #define AmonstragemCorrente 0.2
-#define LimiteCorrente  46 //(509 = 3A LMD18200T RCS 2k2)
+#define LimiteCorrente  509 //(509 = 3A LMD18200T RCS 2k2)
 
 unsigned long TimerCorrente;
 unsigned long TimerDCC;
